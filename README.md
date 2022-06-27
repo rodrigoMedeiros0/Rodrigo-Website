@@ -1,7 +1,6 @@
 <h1 align="center"> 1.º Website usando HTML e CSS</h1>
 
-
-![img-01](https://user-images.githubusercontent.com/97979883/175996128-df6fd6f0-4ae6-44a7-8096-b4bd10798653.JPG)
+![img-01](https://user-images.githubusercontent.com/97979883/176007405-6c349692-116b-45db-9a61-067ec3572a69.JPG)
 
 # Portfolio
 

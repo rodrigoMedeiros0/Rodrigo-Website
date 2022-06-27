@@ -14,7 +14,7 @@ O projeto é uma página estática onde contém título, subtítulo, foto, descr
 
 As técnicas utilizadas pra isso são:
 
-- `H1, H2 e H3`: São títulos que alteram o tamanho, onde o maior começa em h1;
+- `H1, H2 e H3`: H1 é o título principal da pagina e as demais são subtítulos;
 - `color`: Altera a cor doe elemento;
 - `font-family: 'Montserrat', sans-serif`: Fonte para dar mais estilo usando o Google Fontes;
 - `font-size`: Aumenta ou diminui o tamanho das fontes;

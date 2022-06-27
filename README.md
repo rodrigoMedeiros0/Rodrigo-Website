@@ -38,6 +38,6 @@ Após baixar o projeto, você pode abrir com o Visual Studio Code ou Atom clique
 - Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
 - Por fim clique em OK
 
-## 📚 Mais informações do curso
+## 📚 Mais informações 
 
-Gostou do projeto e quer conhecer mais? Você pode [acessar o curso]([https://cursos.alura.com.br/course/android-kotlin-personalize-app](https://www.udemy.com/course/the-complete-web-development-bootcamp/)) que desenvolve o projeto desde o começo!
+Projeto feito durante durante o curso [Bootcamp Web Developer]([https://cursos.alura.com.br/course/android-kotlin-personalize-app](https://www.udemy.com/course/the-complete-web-development-bootcamp/)) que desenvolve o projeto desde o começo!

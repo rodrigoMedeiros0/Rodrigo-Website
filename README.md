@@ -18,7 +18,7 @@ As técnicas utilizadas pra isso são:
 - `H1, H2 e H3`: São títulos que alteram o tamanho, onde o maior começa em h1;
 - `color`: Altera a cor doe elemento;
 - `font-family: 'Montserrat', sans-serif`: Fonte para dar mais estilo usando o Google Fontes;
-- `font-size: Aumenta ou diminui o tamanho das fontes;
+- `font-size`: Aumenta ou diminui o tamanho das fontes;
 - `font-weight`: Fonforme maior o número, vai dar uma cor mais escura, para dar mais destaque ao elemento;
 - `padding`: Aumenta o espaçamento interno do elemento;
 - `margin`: Aumenta o espaçamento externo do elemento;
@@ -32,14 +32,13 @@ Você pode [acessar o código fonte do projeto inicial](https://github.com/rodri
 
 ## 🛠️ Abrir e rodar o projeto
 
-Após baixar o projeto, você pode abrir com o Android Studio. Para isso, na tela de launcher clique em:
+Após baixar o projeto, você pode abrir com o Visual Studio Code ou Atom clique em:
 
-- **Open an Existing Project** (ou alguma opção similar)
+- File
+- -Open Folder
 - Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
 - Por fim clique em OK
 
-O Android Studio deve executar algumas tasks do Gradle para configurar o projeto, aguarde até finalizar. Ao finalizar as tasks, você pode executar o App 🏆 
-
 ## 📚 Mais informações do curso
 
-Gostou do projeto e quer conhecer mais? Você pode [acessar o curso](https://cursos.alura.com.br/course/android-kotlin-personalize-app) que desenvolve o projeto desde o começo!
+Gostou do projeto e quer conhecer mais? Você pode [acessar o curso]([https://cursos.alura.com.br/course/android-kotlin-personalize-app](https://www.udemy.com/course/the-complete-web-development-bootcamp/)) que desenvolve o projeto desde o começo!

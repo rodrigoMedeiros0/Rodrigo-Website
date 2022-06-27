@@ -40,4 +40,4 @@ Após baixar o projeto, você pode abrir com o Visual Studio Code ou Atom clique
 
 ## 📚 Mais informações 
 
-Projeto feito durante durante o curso [Bootcamp Web Developer]([https://cursos.alura.com.br/course/android-kotlin-personalize-app](https://www.udemy.com/course/the-complete-web-development-bootcamp/)) que desenvolve o projeto desde o começo!
+Projeto feito durante durante o curso [Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) que desenvolve o projeto desde o começo!

@@ -35,7 +35,7 @@ Você pode [acessar o código fonte do projeto inicial](https://github.com/rodri
 Após baixar o projeto, você pode abrir com o Visual Studio Code ou Atom clique em:
 
 - File
-- -Open Folder
+- Open Folder
 - Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
 - Por fim clique em OK
 
